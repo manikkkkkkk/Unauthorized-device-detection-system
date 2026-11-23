@@ -1,0 +1,20 @@
+[2026-11-01 13:51:18] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=B8:27:EB:12:34:56 | IP=192.168.1.199 | Vendor='Raspberry Pi Foundation' | Hostname='kali-dropbox.lan' | OpenPorts=[22/ssh, 4444/metasploit]
+[2026-11-01 13:51:18] [WARNING] [SECURITY-AUDIT] Requests library not available; cannot deliver HTTP alert.
+[2026-11-01 13:59:59] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=B8:27:EB:12:34:56 | IP=192.168.1.199 | Vendor='Raspberry Pi Foundation' | Hostname='kali-dropbox.lan' | OpenPorts=[22/ssh, 4444/metasploit]
+[2026-11-01 13:59:59] [WARNING] [SECURITY-AUDIT] Requests library not available; cannot deliver HTTP alert.
+[2026-11-02 10:50:05] [WARNING] [SECURITY-AUDIT] Requests library not available; cannot deliver Telegram alert.
+[2026-11-02 11:03:15] [INFO] [SECURITY-AUDIT] Telegram alert successfully transmitted to chat.
+[2026-11-03 01:04:55] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=C6:0D:D3:01:2F:90 | IP=192.168.1.108 | Vendor='Unknown Vendor' | Hostname='' | OpenPorts=[None scanned]
+[2026-11-03 01:04:56] [INFO] [SECURITY-AUDIT] Telegram alert successfully transmitted to chat.
+[2026-11-03 01:05:23] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=C6:0D:D3:01:2F:90 | IP=192.168.1.108 | Vendor='Unknown Vendor' | Hostname='' | OpenPorts=[None scanned]
+[2026-11-03 01:08:20] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=56:58:F4:06:DF:C9 | IP=192.168.1.104 | Vendor='Unknown Vendor' | Hostname='' | OpenPorts=[None scanned]
+[2026-11-03 01:08:21] [INFO] [SECURITY-AUDIT] Telegram alert successfully transmitted to chat.
+[2026-11-03 01:08:52] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=56:58:F4:06:DF:C9 | IP=192.168.1.104 | Vendor='Unknown Vendor' | Hostname='' | OpenPorts=[None scanned]
+[2026-11-03 01:09:24] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=56:58:F4:06:DF:C9 | IP=192.168.1.104 | Vendor='Unknown Vendor' | Hostname='' | OpenPorts=[None scanned]
+[2026-11-03 01:10:02] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=56:58:F4:06:DF:C9 | IP=192.168.1.104 | Vendor='Unknown Vendor' | Hostname='' | OpenPorts=[None scanned]
+[2026-11-03 01:10:02] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=C6:0D:D3:01:2F:90 | IP=192.168.1.108 | Vendor='Unknown Vendor' | Hostname='' | OpenPorts=[None scanned]
+[2026-11-03 01:10:03] [INFO] [SECURITY-AUDIT] Telegram alert successfully transmitted to chat.
+[2026-11-03 01:10:30] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=56:58:F4:06:DF:C9 | IP=192.168.1.104 | Vendor='Unknown Vendor' | Hostname='' | OpenPorts=[None scanned]
+[2026-11-03 01:11:00] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=56:58:F4:06:DF:C9 | IP=192.168.1.104 | Vendor='Unknown Vendor' | Hostname='' | OpenPorts=[None scanned]
+[2026-11-03 09:43:45] [WARNING] [SECURITY-AUDIT] ROGUE_DEVICE_DETECTED: MAC=9A:74:98:EE:B7:48 | IP=10.35.61.147 | Vendor='Unknown Vendor' | Hostname='' | OpenPorts=[None scanned]
+[2026-11-03 09:43:46] [INFO] [SECURITY-AUDIT] Telegram alert successfully transmitted to chat.

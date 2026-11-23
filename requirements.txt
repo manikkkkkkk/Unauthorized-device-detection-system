@@ -1,0 +1,8 @@
+# Networking & Packet Crafting
+scapy>=2.5.0
+
+# HTTP Alerting & Webhooks
+requests>=2.31.0
+
+# Optional Active Network Profiling & Service Discovery
+python-nmap>=0.7.1
